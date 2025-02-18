@@ -17,3 +17,7 @@ appended to it.
 [![Download on Modrinth](https://github.com/Prospector/badges/blob/master/modrinth-badge-72h-padded.png?raw=true)](https://modrinth.com/mod/compact-chat)
 
 or, download it from the [releases page](https://github.com/cbyrneee/compact-chat/releases).
+
+-----------
+
+Edited by Min to add "▬▬▬▬▬▬" as a message divider that can be optionally compacted or not.
