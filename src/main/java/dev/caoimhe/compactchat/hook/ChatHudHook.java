@@ -73,6 +73,7 @@ public class ChatHudHook {
             || trimmedString.isBlank()
             || trimmedString.contains("------")
             || trimmedString.contains("======");
+            || trimmedString.contains("▬▬▬▬▬▬");
     }
 
     /**
